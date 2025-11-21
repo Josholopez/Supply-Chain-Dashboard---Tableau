@@ -42,4 +42,7 @@ Analysis of Just-in-Time (JIT) performance within the supply chain of a retail c
   - The “Indoor/Outdoor Games” category shows the highest average monthly understock, with -45.58 items, and an average fulfillment time of 5.5 days to warehouse.
 
 ## Dashboard Preview
+Explore the dashboard in [Tableau Public](https://public.tableau.com/views/Supply_Chain_Analysis_17636475531170/Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).  
 ![Nagrywanie2025-11-20201312-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/26ba23c9-4dba-43b1-be86-7c144481ff35)
+
+
